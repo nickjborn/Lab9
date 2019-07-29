@@ -1,0 +1,11 @@
+D:\GrandCircus\Labs\Lab9_\bin\Debug\netcoreapp2.2\Lab9_.deps.json
+D:\GrandCircus\Labs\Lab9_\bin\Debug\netcoreapp2.2\Lab9_.runtimeconfig.json
+D:\GrandCircus\Labs\Lab9_\bin\Debug\netcoreapp2.2\Lab9_.runtimeconfig.dev.json
+D:\GrandCircus\Labs\Lab9_\bin\Debug\netcoreapp2.2\Lab9_.dll
+D:\GrandCircus\Labs\Lab9_\bin\Debug\netcoreapp2.2\Lab9_.pdb
+D:\GrandCircus\Labs\Lab9_\obj\Debug\netcoreapp2.2\Lab9_.csprojAssemblyReference.cache
+D:\GrandCircus\Labs\Lab9_\obj\Debug\netcoreapp2.2\Lab9_.csproj.CoreCompileInputs.cache
+D:\GrandCircus\Labs\Lab9_\obj\Debug\netcoreapp2.2\Lab9_.AssemblyInfoInputs.cache
+D:\GrandCircus\Labs\Lab9_\obj\Debug\netcoreapp2.2\Lab9_.AssemblyInfo.cs
+D:\GrandCircus\Labs\Lab9_\obj\Debug\netcoreapp2.2\Lab9_.dll
+D:\GrandCircus\Labs\Lab9_\obj\Debug\netcoreapp2.2\Lab9_.pdb
